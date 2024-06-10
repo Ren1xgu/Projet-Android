@@ -1,1 +1,3 @@
 # Projet-Android
+
+Cette application permet de rechercher des pays en recherchant des noms de pays ou des capitales en se connectant à l'API Rest https://restcountries.com/v3.1/all/. La page de recherche répertorie également tous les pays et les images de leurs drapeaux dans l'ordre de l'identifiant du pays. Lorsque vous cliquez sur la page d'information d'un pays, vous pouvez voir les informations spécifiques du pays, y compris le nom, la capitale, le drapeau, la population, la monnaie, la zone du pays, etc. En outre, l'application permet de mettre en signet le pays de votre choix et de le consulter à tout moment.
